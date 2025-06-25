@@ -3,3 +3,4 @@ bye
 coming
 valorant
 login
+logout
