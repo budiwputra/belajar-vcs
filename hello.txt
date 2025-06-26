@@ -4,4 +4,3 @@ coming
 valorant
 login
 logout
-password
